@@ -2,7 +2,7 @@
 <html lang="zh">
 
 <head>
-    <title>吃掉小鹿乃</title>
+    <title>叫醒王宁</title>
     <meta itemprop="name" content="吃掉小鹿乃" />
     <meta itemprop="description" content="新概念音游" />
     <meta charset="utf-8" />
@@ -73,7 +73,7 @@
                         <div class="input-group-prepend">
                             <span class="input-group-text" id="basic-addon1">标题</span>
                         </div>
-                        <input type="text" id="title" class="form-control" placeholder="吃掉小鹿乃">
+                        <input type="text" id="title" class="form-control" placeholder="叫醒王宁">
                     </div>
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
